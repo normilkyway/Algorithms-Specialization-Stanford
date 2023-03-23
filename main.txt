@@ -1,0 +1,9 @@
+learning all of the data-structures and algorithms -- 2023 edition
+
+will keep my learning log here...
+
+log categories:
+
+day | hours studied | {topics covered} | {problems solved}  |
+--------------------------------------------------------------
+3/23 0 {} {}
