@@ -2,6 +2,9 @@ learning all of the data-structures and algorithms -- 2023 edition
 
 will keep my learning log here...
 
+upcoming team computer science competitions:
+1. Codequest
+
 log categories:
 
 day | hours studied | {topics covered} | {problems solved}  |

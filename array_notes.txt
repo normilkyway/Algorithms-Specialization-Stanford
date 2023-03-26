@@ -1,0 +1,5 @@
+to make an STL array pass by reference you need to do &name
+name becomes an "alias" to the array because it points to the same object in memory but is represented by a different name...
+
+stl arrays are PASS by value only
+regular arrays are PASS by reference to the first index of the array only
