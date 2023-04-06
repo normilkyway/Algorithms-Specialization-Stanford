@@ -2,12 +2,17 @@
 
 using namespace std;
 
+vector<bool> valid;
+
+vector<bool> dfs(vector<int> g[]) {
+    return {false};
+}
+
 int main() {
     int n, m;
-    cin << n << m;
+    cin << n << m; // always require n-1 lines
     
     vector<int> g[n];
-    boolean b[n];
 
     while(m-- > 0) {
         int a, b;
