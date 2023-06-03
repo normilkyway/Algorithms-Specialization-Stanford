@@ -10,7 +10,8 @@ bool validBfs(int n, vector<int> sequence, vector<vector<int>> edges)
     queue<int> q;
     unordered_map<int, bool> visited;
 
-    vector<int> index(n + 1);
+    int nk = n + 1;
+    vector<int> index(nk);
     for (int i = 0; i < n; ++i)
         index[sequence[i]] = i;
 
